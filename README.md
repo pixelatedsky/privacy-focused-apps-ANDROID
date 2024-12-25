@@ -1,2 +1,2 @@
 # privacy-focused-apps-ANDROID
-Android apps that respects your Privacy
+*Android apps that prioritize user privacy*
